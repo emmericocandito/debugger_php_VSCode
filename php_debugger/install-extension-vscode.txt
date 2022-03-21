@@ -1,0 +1,2 @@
+- PHP extension pack
+- php IntelliSense : 2.3.14
